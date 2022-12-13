@@ -31,7 +31,7 @@ function HomeAdmin() {
               />
             </div>
             <div className="col-6 mt-lg-4 mt-md-3">
-              <h4 className="fw-bold">Billing</h4>
+              <h4 className="fw-bold">Cafe Menu</h4>
             </div>
           </div>
         </button>
@@ -45,7 +45,7 @@ function HomeAdmin() {
               />
             </div>
             <div className="col-6 mt-lg-4 mt-md-3">
-              <h4 className="fw-bold">Residents</h4>
+              <h4 className="fw-bold">Billing</h4>
             </div>
           </div>
         </button>

@@ -9,7 +9,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-button {
+.bg-homeResident button {
   background: none;
   color: inherit;
   border: none;
