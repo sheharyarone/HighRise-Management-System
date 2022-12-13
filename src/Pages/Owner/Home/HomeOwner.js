@@ -1,6 +1,6 @@
 import React from "react";
-import "./HomeResident.css";
-function HomeResident() {
+import "./HomeOwner.css";
+function HomeOwner() {
   return (
     <div className="py-5 bg-homeResident">
       <h1 className="pt-5 pb-lg-5 pb-md-3 pb-sm-2 mx-5 text-center text-secondary">
@@ -83,4 +83,4 @@ function HomeResident() {
   );
 }
 
-export default HomeResident;
+export default HomeOwner;

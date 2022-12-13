@@ -1,15 +1,15 @@
 import React, { useState } from "react";
-import "./manage.css";
 
-function Manage() {
+function AppartManage() {
   return (
-    <div>
-      <h1 className="text-center mt-5">Appartment Management</h1>
+    <div className="pt-5 ps-5">
       <button>Home</button>
+
+      <h1 className="text-center mt-5">Appartment Management</h1>
       <button>Add</button>
       <button>Remove</button>
     </div>
   );
 }
 
-export default Manage;
+export default AppartManage;

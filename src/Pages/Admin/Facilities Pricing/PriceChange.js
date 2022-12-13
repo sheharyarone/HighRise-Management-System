@@ -1,5 +1,5 @@
 import React from "react";
-function BillManage({ facility_name }) {
+function PriceChange({ facility_name }) {
   return (
     <div>
       <h4>{facility_name} : $5 </h4>
@@ -22,4 +22,4 @@ function BillManage({ facility_name }) {
   );
 }
 
-export default BillManage;
+export default PriceChange;
