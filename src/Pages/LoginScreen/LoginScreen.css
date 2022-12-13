@@ -1,9 +1,8 @@
-body {
-  height: 100%;
+.bg-login {
+  height: 100vh;
   background-image: url("./Assets/bg-login.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
-
